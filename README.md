@@ -1,10 +1,6 @@
 L.L.A.M - Locust Location & Apprehension Module[Next JS]
 =======================
 
-
-**Web App**: <a target="_blank" href="https://locustlocator2.vercel.app">https://locustlocator2.vercel.app 🔗</a>
-
-
 L.L.A.M tracks the realtime locusts location and visualizes wind patterns on earth.
 Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning regression models.
 
