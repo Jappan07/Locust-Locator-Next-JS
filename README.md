@@ -4,6 +4,8 @@ L.L.A.M - Locust Location & Apprehension Module[Next JS]
 L.L.A.M tracks the realtime locusts location and visualizes wind patterns on earth.
 Predicts the probability of locust attacks on a particular given position through satellite imagery using machine learning regression models.
 
+<a href="https://locust-locator-next-js-95cqjpa4a-jappan07.vercel.app/">Deployed here</a>
+
 <h4 align="center">Tracking feature</h4>
 
 ![](https://raw.githubusercontent.com/Hackers-House/LLAM-Graphics/main/a.png)
